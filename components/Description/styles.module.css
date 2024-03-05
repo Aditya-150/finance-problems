@@ -1,0 +1,9 @@
+.mask {
+    mask-image:url('../../public/images/mask.svg');
+    mask-repeat: no-repeat;
+    mask-size: 40px;
+}
+
+.highlight {
+    @apply text-purple-500
+}
