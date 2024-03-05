@@ -29,19 +29,19 @@ export const problems = [
 export const solutions = [
   {
     title: "Financial Illiteracy",
-    text: "Implement comprehensive financial literacy programs in schools and offer accessible online resources and workshops to educate individuals on budgeting, saving, and debt management. Collaborate with financial institutions and community organizations to provide free financial education seminars.",
+    text: "Design a user-friendly platform offering educational content, interactive tools, and personalized guidance. Include modules on budgeting, saving, investing, and debt management. Utilize clear language, visuals, and real-life examples to enhance understanding.",
     image: solutionImage1,
     id: 0,
   },
   {
     title: "Complex Financial Products and Services",
-    text: "Enforce stricter regulations for transparent financial product offerings, develop standardized comparison tools, and advocate for simplified product versions with clear terms and fee structures.",
+    text: "Create a tool that allows users to compare products such as savings accounts, credit cards, and loans based on key features, fees, and terms. Implement intuitive filters and visualizations to help users quickly identify the best options for their needs.",
     image: solutionImage2,
     id: 1,
   },
   {
     title: "Inadequate Retirement Planning",
-    text: "Promote automatic enrollment in retirement plans, increase public awareness about retirement planning, advocate for enhanced savings incentives, and encourage diversified retirement savings strategies to ensure long-term financial security.",
+    text: "Develop an interactive retirement planning wizard that guides users through the process step-by-step. Collect information about users' financial goals, income, expenses, and risk tolerance to generate personalized recommendations. Provide actionable tips and resources to help users improve their retirement readiness.",
     image: solutionImage3,
     id: 2,
   },
